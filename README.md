@@ -1,4 +1,4 @@
-<h1> HANDLING_GEOSPATIAL_DATA </h1>
+<h1> HANDLING GEOSPATIAL DATA </h1>
 
 Link to my article where I explained in details the cotnent of the notebook:
 
